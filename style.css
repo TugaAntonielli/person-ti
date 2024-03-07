@@ -1,8 +1,27 @@
+*{
+    margin: 0;
+}
 header{
     height: 200px;
     width: 100%;
     background-color: black;
+    color: white;
+    display: block;
+
 }
+header h1{
+text-align: center;
+padding-top: 10px;
+}
+header h4{
+    float: left;
+    
+}
+header h4{
+    margin-left: 230px;
+}
+
+
 main{
     height: 200px;
     width: 100%;
